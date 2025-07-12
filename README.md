@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bilalium // 🥇
+
+cc
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **bilalium1/bilalium1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
