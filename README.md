@@ -1,6 +1,6 @@
-<img src="https://1000logos.net/wp-content/uploads/2017/11/Symbol-Sonic.png" alt="sonic" width="500"/>
+<img src="https://media.tenor.com/jhY6iILl2BoAAAAi/sonic-sonic-the-hedgehog.gif" alt="sonic" width="400"/>
 
-B11
+- Ｂ / /  - 
 
 <!--
 **bilalium1/bilalium1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
