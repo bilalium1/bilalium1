@@ -1,7 +1,6 @@
-## Bilalium // 🥇
+<img src="https://1000logos.net/wp-content/uploads/2017/11/Symbol-Sonic.png" alt="sonic" width="500"/>
 
-cc
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+B11
 
 <!--
 **bilalium1/bilalium1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
