@@ -25,9 +25,7 @@
 + M = "Computer Science"
 + E = 1337
 ```
-<img src="https://media.tenor.com/0YWJEYYlO8kAAAAi/sonic-advance-3-idle-animation.gif" width="100">
-<!--img src="https://media.tenor.com/NIVbXrmMPNwAAAAi/sonic-advance.gif" alt="sonic" width="200"/> 
-| <img src="https://media.tenor.com/NIVbXrmMPNwAAAAi/sonic-advance.gif" width="100"> | test |
-|---------------------------------|------|
+<!--img src="https://media.tenor.com/0YWJEYYlO8kAAAAi/sonic-advance-3-idle-animation.gif" width="100"/!-->
+<img src="https://media.tenor.com/NIVbXrmMPNwAAAAi/sonic-advance.gif" alt="sonic" width="150"/> 
 
 
